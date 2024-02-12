@@ -1,4 +1,4 @@
-#                         <Unity Photon Multiplay Game> StolenFlag
+#                         <Unity Photon Multiplay Game> StolenFlag with Photon (Multiplay)
 : Unity Photon Network를 이용한 멀티플레이어 깃발빼앗기 미니게임
 
 <br/>
